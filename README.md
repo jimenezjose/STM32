@@ -9,9 +9,9 @@ Download the [gcc ARM compiler](https://developer.arm.com/open-source/gnu-toolch
 Install [st-flash](http://macappstore.org/stlink/) to uplaod data to the text section of the stm32: 
 
 ### Other OS: STLink GitHub Repo
-[st-flash](https://github.com/texane/stlink):
+[st-flash Repo](https://github.com/texane/stlink):
 Not too sure on this part but just try to download STLink. 
-I also found this [link](https://www.st.com/en/development-tools/stsw-link004.html).
+I also found this [link on the arm website](https://www.st.com/en/development-tools/stsw-link004.html).
 If you manage to figure it out document what you did, so I can post it here.
 
 ### The folowing directions will be Mac specific only because I configured the software on my MacOS machine.
