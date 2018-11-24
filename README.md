@@ -5,7 +5,8 @@ Download the [STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.h
 
 Download the [gcc ARM compiler](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads):
 
-### Mac OSX: (Brew will be needed)[https://brew.sh/]
+### Mac OSX: 
+(Brew will be needed)[https://brew.sh/]
 Install [st-flash](http://macappstore.org/stlink/) to uplaod data to the text section of the stm32: 
 
 ### Other OS: STLink GitHub Repo
