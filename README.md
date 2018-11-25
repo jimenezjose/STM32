@@ -32,7 +32,7 @@ If you manage to figure it out, document what you did, so I can post it here.
 
 ### The folowing directions will be Mac specific only because I configured the software on my MacOS machine.
 
-If you are getting command "\*\*\*" not found. I had the same issues. So luckily, I figured out what the problem was.
+If you are getting "command \*\*\* not found". I had the same issues. So luckily, I figured out what the problem was.
 Every time you attempt to execute a command a binary file is executed. For example if I enter "echo hi" the echo command
 only executes because there is a binary file in the "\bin" directory named "echo". So find your binary files. It should be in the folders you downloaded. For a more concrete example follow this quick tutorial.
 
