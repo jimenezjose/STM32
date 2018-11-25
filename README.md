@@ -38,7 +38,7 @@ only executes because there is a binary file in the "\bin" directory named "echo
 
 ### Say "arm-none-eabi-gcc" command is not found.
 
-### Before anything check the binary file you have to see if you can find it. How? I'll show a quick video.
+### Before anything find the arm-none-eabi-gcc binary file. How? I'll show a quick vid.
 
 
 
