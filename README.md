@@ -1,11 +1,13 @@
 # STM32
 STM32F4 Nucleo 
 
-Download the [STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html) code generation GUI:
+### Download the [STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html) code generation GUI:
+
 ![alt text]( https://github.com/jimenezjose/STM32/blob/master/Images/STM32CubeMX%20Download.png "STM32MX")
 ![alt text]( https://github.com/jimenezjose/STM32/blob/master/Images/STM32CubeMX.png "STM32MX")
 
-Download the [gcc ARM compiler](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads):
+### Download the [gcc ARM compiler](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads):
+
 ![alt text]( https://github.com/jimenezjose/STM32/blob/master/Images/gcc-arm%20compiler%20download.png "gcc arm")
 
 ### Mac OSX: [Brew will be needed](https://brew.sh/).
