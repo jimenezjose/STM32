@@ -10,15 +10,23 @@ STM32F4 Nucleo
 
 ![alt text]( https://github.com/jimenezjose/STM32/blob/master/Images/gcc-arm%20compiler%20download.png "gcc arm")
 
+## Disclaimer: You do not have to use a Makefile. I only did it because I am fairly familiar using it. 
+## Many used IDEs to upload code to the STM32. But this is the way I did it.
+
 ### Mac OSX: [Brew will be needed](https://brew.sh/).
 Install [st-flash](http://macappstore.org/stlink/) to uplaod data to the text section of the stm32: 
-![alt text]( https://github.com/jimenezjose/STM32/blob/master/Images/STM32CubeMX.png "STM32MX")
 
 ### Other OS: STLink GitHub Repo
 [st-flash Repo](https://github.com/texane/stlink):
 Not too sure on this part but just try to download STLink. 
 I also found this [link on the arm website](https://www.st.com/en/development-tools/stsw-link004.html).
 If you manage to figure it out, document what you did, so I can post it here.
+
+
+
+
+### LED_Blink program follow this [video](https://youtu.be/BJdXR0Al6os):
+The only difference that we will have is in section 
 
 ### The folowing directions will be Mac specific only because I configured the software on my MacOS machine.
 
