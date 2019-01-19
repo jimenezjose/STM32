@@ -40,6 +40,8 @@ only executes because there is a binary file in the "\bin" directory named "echo
 
 ### Before anything find the arm-none-eabi-gcc binary file. How? I'll show a [video](https://youtu.be/NxK8P0QOFqw).
 
-
-
+## How to flash code on to the STM32
+```
+st-flash write [binary file] 0x08000000
+```
 
