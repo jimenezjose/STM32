@@ -49,3 +49,5 @@ st-flash write [binary file] 0x08000000
 [NUCLEO-F4 Data Sheet - Memory Mapping](https://www.st.com/resource/en/datasheet/cd00237391.pdf)
 
 [Pin Functions](https://simonmartin.ch/resources/stm32/dl/STM32%20Tutorial%2001%20-%20GPIO%20Operations%20using%20HAL%20(and%20FreeRTOS).pdf)
+
+[UART Communication Documentation](https://os.mbed.com/users/EricLew/code/STM32L4xx_HAL_Driver/docs/tip/group__UART__Exported__Functions__Group2.html#ga210329848c1873957034e129ccf8944e)
